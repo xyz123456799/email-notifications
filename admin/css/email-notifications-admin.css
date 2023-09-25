@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .tox-notification.tox-notification--in.tox-notification--warning {
+    display: none !important;
+}
